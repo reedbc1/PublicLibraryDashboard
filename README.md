@@ -1,6 +1,6 @@
 # PublicLibraryDashboard
 ## About
-- Explores available data for public libraries in 2022 from IMLS.
+- Explores available data for public libraries in 2022 from IMLS using Tableau.
 - Final project for Data Visualization class at Northwest MO State.
 - See [brendan_reed_final_report.pdf](https://github.com/reedbc1/PublicLibraryDashboard/blob/main/brendan_reed_final_report.pdf) for write-up.
 
